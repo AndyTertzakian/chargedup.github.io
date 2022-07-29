@@ -1,0 +1,30 @@
+databricks fs cp dbfs:/FileStore/maps/Slrp.html Slrp.html --overwrite
+databricks fs cp dbfs:/FileStore/maps/BRYANT.html BRYANT.html --overwrite
+databricks fs cp dbfs:/FileStore/maps/WEBSTER.html WEBSTER.html --overwrite
+databricks fs cp dbfs:/FileStore/maps/HAMILTON.html HAMILTON.html --overwrite
+databricks fs cp dbfs:/FileStore/maps/HIGH.html HIGH.html --overwrite
+databricks fs cp dbfs:/FileStore/maps/TED_THOMPSON.html TED_THOMPSON.html --overwrite
+databricks fs cp dbfs:/FileStore/maps/MPL.html MPL.html --overwrite
+databricks fs cp dbfs:/FileStore/maps/RINCONADA_LIB.html RINCONADA_LIB.html --overwrite
+databricks fs cp dbfs:/FileStore/maps/CAMBRIDGE.html CAMBRIDGE.html --overwrite
+
+databricks fs cp dbfs:/FileStore/maps/1745_14th_street.html 1745_14th_street.html --overwrite
+databricks fs cp dbfs:/FileStore/maps/1500_Pearl_St.html 1500_Pearl_St.html --overwrite
+databricks fs cp dbfs:/FileStore/maps/1770_13th_St.html 1770_13th_St.html --overwrite
+databricks fs cp dbfs:/FileStore/maps/1360_Gillaspie_Dr.html 1360_Gillaspie_Dr.html --overwrite
+databricks fs cp dbfs:/FileStore/maps/900_Walnut_St.html 900_Walnut_St.html --overwrite
+databricks fs cp dbfs:/FileStore/maps/1100_Spruce_St.html 1100_Spruce_St.html --overwrite
+databricks fs cp dbfs:/FileStore/maps/1400_Walnut_St.html 1400_Walnut_St.html --overwrite
+databricks fs cp dbfs:/FileStore/maps/2052_Junction_Pl.html 2052_Junction_Pl.html --overwrite
+databricks fs cp dbfs:/FileStore/maps/1100_Walnut.html 1100_Walnut.html --overwrite
+databricks fs cp dbfs:/FileStore/maps/1739_Broadway.html 1739_Broadway.html --overwrite
+databricks fs cp dbfs:/FileStore/maps/3172_Broadway.html 3172_Broadway.html --overwrite
+databricks fs cp dbfs:/FileStore/maps/5660_Sioux_Dr.html 5660_Sioux_Dr.html --overwrite
+databricks fs cp dbfs:/FileStore/maps/5565_51st_St.html 5565_51st_St.html --overwrite
+databricks fs cp dbfs:/FileStore/maps/1505_30th_St.html 1505_30th_St.html --overwrite
+databricks fs cp dbfs:/FileStore/maps/3335_Airport_Rd.html 3335_Airport_Rd.html --overwrite
+databricks fs cp dbfs:/FileStore/maps/600_Baseline_Rd.html 600_Baseline_Rd.html --overwrite
+databricks fs cp dbfs:/FileStore/maps/2667_Broadway.html 2667_Broadway.html --overwrite
+databricks fs cp dbfs:/FileStore/maps/5333_Valmont_Rd.html 5333_Valmont_Rd.html --overwrite
+
+
